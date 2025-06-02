@@ -1,2 +1,4 @@
 # Employee-Performance-Tracking-System-
 This is a project that includes a system for managing employee information and sales performance using PostgreSQL. The system tracks employees,  customers, tenders, and sold medical devices, featuring a Python  GUI for insights and data management, allowing users to add,  delete, or modify information as needed.
+
+A company’s database is created for tracking the TENDERS processes that are offered by CUSTOMERS and measure the sales EMPLOYEE'S performance in tenders, as well as to tracking the INSTALLATIONS of medical devices, in which tenders are divided into two groups (won or lost), where each tender has a unique ID, a title, tender announcing date, date of submission, in addition to the value of won tender and the name of the company that won the tender for the lost tenders.
